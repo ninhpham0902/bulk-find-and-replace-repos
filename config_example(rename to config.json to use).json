@@ -1,10 +1,12 @@
 {
   "repository_list": [
     [
+      "JIRA-id-1111", 
       "JIRA-id-1111",
       "git@gitlab.example.com:micro-services/example-service-1.git"
     ],
     [
+      "JIRA-id-1112",
       "JIRA-id-1112",
       "git@gitlab.example.com:micro-services/example-service-2.git"
     ]

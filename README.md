@@ -14,7 +14,7 @@ git clone https://github.com/omerkarabacak/bulk-find-and-replace-in-git-reposito
 ### What to do before run?
 In config.json file, change these;
 
-* Add your new branch names and repositories in **repository_list**
+* Add your new saved folder, branch names and repositories in **repository_list**
 * Add texts to find and replace **find_and_replace_list**
 * Add files to check in **file_list**
 * Change commit message **commit_message**
